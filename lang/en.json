@@ -1,0 +1,22 @@
+{
+  "TRINITYOFSOL.AbilityStr": "Strength",
+  "TRINITYOFSOL.AbilityCon": "Constitution",
+  "TRINITYOFSOL.AbilityDex": "Dexterity",
+  "TRINITYOFSOL.AbilityInt": "Intelligence",
+  "TRINITYOFSOL.AbilityWis": "Wisdom",
+  "TRINITYOFSOL.AbilityCha": "Charisma",
+
+  "TRINITYOFSOL.AbilityStrAbbr": "str",
+  "TRINITYOFSOL.AbilityConAbbr": "con",
+  "TRINITYOFSOL.AbilityDexAbbr": "dex",
+  "TRINITYOFSOL.AbilityIntAbbr": "int",
+  "TRINITYOFSOL.AbilityWisAbbr": "wis",
+  "TRINITYOFSOL.AbilityChaAbbr": "cha",
+
+  "TRINITYOFSOL.EffectCreate": "Create Effect",
+  "TRINITYOFSOL.EffectToggle": "Toggle Effect",
+  "TRINITYOFSOL.EffectEdit": "Edit Effect",
+  "TRINITYOFSOL.EffectDelete": "Delete Effect",
+
+  "TRINITYOFSOL.Add": "Add"
+}
